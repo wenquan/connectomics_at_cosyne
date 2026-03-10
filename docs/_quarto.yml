@@ -14,7 +14,7 @@ website:
       - icon: github
         menu:
           - text: Tutorial Code
-            url:  https://github.com/AllenInstitute/connectomics_at_cosyne
+            url:  https://github.com/AllenInstitute/connectomics_at_cosyne/tree/main/examples
   back-to-top-navigation: true
   page-footer: 
       center: "Website built by: Bethanny Danskin. Image credit: Forrest Collman."
